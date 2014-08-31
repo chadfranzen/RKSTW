@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=player\ x\ y\ img\ powerupActivate
+comment0.target=SpreadShot(Player,\ double,\ double,\ java.awt.Image,\ java.applet.AudioClip)
+comment1.params=
+comment1.target=void\ takeEffect()
+numComments=2

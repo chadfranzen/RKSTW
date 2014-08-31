@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=player\ x\ y\ img\ death
+comment0.target=Child(Player,\ double,\ double,\ java.awt.Image,\ java.applet.AudioClip)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ damageCheck()
+numComments=4

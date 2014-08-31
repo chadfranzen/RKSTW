@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y\ img\ imgWidth\ imgHeight\ damage\ speedMultiplier\ wallHit
+comment0.target=Bullet(double,\ double,\ java.awt.Image,\ int,\ int,\ int,\ double,\ java.applet.AudioClip)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ deactivate()
+comment4.params=
+comment4.target=boolean\ isActive()
+numComments=5

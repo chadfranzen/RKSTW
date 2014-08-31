@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=player\ x\ y\ img\ bulletImg\ wallHit\ death
+comment0.target=Turret(Player,\ double,\ double,\ java.awt.Image,\ java.awt.Image,\ java.applet.AudioClip,\ java.applet.AudioClip)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ shoot()
+comment3.params=
+comment3.target=boolean\ isActive()
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment5.params=speed
+comment5.target=void\ moveRight(double)
+comment6.params=speed
+comment6.target=void\ moveLeft(double)
+comment7.params=speed
+comment7.target=void\ moveUp(double)
+comment8.params=speed
+comment8.target=void\ moveDown(double)
+numComments=9

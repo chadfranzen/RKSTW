@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=player\ maxHealth\ damage\ score\ x\ y\ img\ imgWidth\ imgHeight\ death
+comment0.target=Enemy(Player,\ int,\ int,\ int,\ double,\ double,\ java.awt.Image,\ int,\ int,\ java.applet.AudioClip)
+comment1.params=
+comment1.target=boolean\ isAlive()
+comment2.params=
+comment2.target=boolean\ isActive()
+comment3.params=dmg
+comment3.target=void\ takeDamage(int)
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ act()
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=player\ x\ y\ img\ imgWidth\ imgHeight\ powerupActivate
+comment0.target=Powerup(Player,\ double,\ double,\ java.awt.Image,\ int,\ int,\ java.applet.AudioClip)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ isFinished()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ takeEffect()
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ player\ img\ wallHit
+comment0.target=EnemyBullet(double,\ double,\ Player,\ java.awt.Image,\ java.applet.AudioClip)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ damageCheck()
+numComments=3
